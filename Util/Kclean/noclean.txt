@@ -1,0 +1,6 @@
+C:\uFoIRCF\mirc.exe
+C:\uFoIRCuser\mirc.exe
+C:\uFoIRCgF\mirc.exe
+C:\uFoIRC\mirc.exe
+C:\uFoIRCs\mirc.exe
+C:\uFoIRCx\mirc.exe
