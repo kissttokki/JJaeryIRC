@@ -1,0 +1,262 @@
+
+세션 시작: Wed Feb 17 15:18:37 2016
+세션 인증: Status Window
+[Wed 2/17 03:18] -J·J·a·e·r·yIRC- 1사용계약
+[Wed 2/17 03:18] 
+[Wed 2/17 03:18] ⓞ 이 IRC는 miRC 6.32 버전을 기반으로해 다양한 인터페이스와 기능들을 제공합니다.
+[Wed 2/17 03:18] ⓞ 여러 스크립들의 애드온의 사용에 대한 권한은 각 저작권자에게 있습니다.
+[Wed 2/17 03:18] ⓞ 무단수정, 배포 절대금합니다.
+[Wed 2/17 03:18] 
+[Wed 2/17 03:18] Copyrightⓒ 2016 Made By JJaery ^ㅡ^
+[Wed 2/17 03:18] 
+-
+03[Wed 2/17 03:18] * 귀하의 메인 새 대화명은 전인재라닝까 입니다
+-
+03[Wed 2/17 03:18] * 귀하의 다른 새 대화명은 전인재라니깡 입니다
+-
+02[Wed 2/17 03:18] * azubu.jp.quakenet.org (6667) 서버에 연결 중
+-
+05[Wed 2/17 03:18] -azubu.jp.quakenet.org- *** Checking Ident
+-
+06[Wed 2/17 03:18] * 43.224.32.195 으로부터 인증을 요청중입니다
+[Wed 2/17 03:18] [4에러: 다음 닉네임은 사용하실 수 없습니다. - 전인재라닝 ]
+06[Wed 2/17 03:18] * 인증 응답: 53474, 6667 : USERID : UNIX : JJaeryIRC
+-
+[Wed 2/17 03:18] [4에러: 다음 닉네임은 사용하실 수 없습니다. - 전인재라니 ]
+-
+05[Wed 2/17 03:18] -azubu.jp.quakenet.org- *** Got ident response
+-
+[Wed 2/17 03:18] Welcome to the QuakeNet IRC Network, asdasfad
+[Wed 2/17 03:18] Your host is azubu.jp.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+[Wed 2/17 03:18] This server was created Sun 27 Sep 2015 at 05:44:44 BST
+-
+[Wed 2/17 03:18] azubu.jp.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+-
+[Wed 2/17 03:18] WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=10 MAXBANS=45 NICKLEN=15 are supported by this server
+[Wed 2/17 03:18] MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet are supported by this server
+[Wed 2/17 03:18] 2,2!2━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Wed 2/17 03:18] 2,2!2 유저 사용 현황 (azubu.jp.quakenet.org)
+[Wed 2/17 03:18] 2,2!2━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Wed 2/17 03:18] 2,2! 40 개의 서버에 22 명이 접속하고 있습니다.
+[Wed 2/17 03:18] 2,2! 66 명의 IRC 오퍼레이터가 사용중입니다.
+[Wed 2/17 03:18] 2,2! 32066 개의 채널이 있습니다.
+[Wed 2/17 03:18] 2,2! 이 서버에서 17 명의 유저가 사용중입니다.
+[Wed 2/17 03:18] 2,2!2━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-
+05[Wed 2/17 03:18] -azubu.jp.quakenet.org- Highest connection count: 27 (26 clients)
+-
+[Wed 2/17 03:18] Message of the Day, azubu.jp.quakenet.org
+-
+[Wed 2/17 03:18] - 2015-9-27 7:38
+[Wed 2/17 03:18] - ................................................................................
+[Wed 2/17 03:18] - 
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWNNNXXXXXXXXXNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMMWWNX0OkxxdooolllllloooddxkO0KXWWMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMN0xollcccccllccccccccllccllcllodk0KNWMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMWX0kdolcccclccclllccclcccllcccccclldk0XWMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMNK0XMMMMMMMWNKOxolcclcccclllcclcllccccccccllclok0NWMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMWN0xlo0WMMMMMMMMMMWX0kdllccllllcllcllllcccclllcclccldOXWMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMN0dlccoKWMMMMMMMMMMMMMWNKOxollccllccccccllcccccclccclclokXWMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMN0dlccccoKWMMMMMMMMMMMMMMMMMWX0OkdllcllccccclcccllccccccclloONMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMWXklccllcco0WMMMMMMMMMMMMMMMMMMMMMWNKOxolcccccccccccccccclccccldKWMMMMMMM
+[Wed 2/17 03:18] - MMMMMMWKdlccccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdlcclcllccccccccccllcloONMMMMMM
+[Wed 2/17 03:18] - MMMMMW0ollcclcccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOxollllccccccclllllcclkNMMMMM
+[Wed 2/17 03:18] - MMMMWOolcllcccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdlccccllcclllclcclkNMMMM
+[Wed 2/17 03:18] - MMMW0olcccccccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOdolllllclccllcllkNMMM
+[Wed 2/17 03:18] - MMWKdllcccccccclco0WMMMMMMMMMMMNKOKNWMMMMMMMMMMMMMMMMMMMMMMWX0xolcclccllclco0WMM
+[Wed 2/17 03:18] - MMNklcccccccccccco0WMMMMMMMMMMMKoclox0XNWWMMMMMMMMMMMMMMMMMMMMWNKkdollllcclldXMM
+[Wed 2/17 03:18] - MW0occcccccclcccco0WMMMMMMMMMMMKocccclodxkKNWMMMMMMMMMMMMMMMMMMMMMNXOxolllcclOWM
+[Wed 2/17 03:18] - MNklclccccccccccco0WMMMMMMMMMMMKocccclllllldk0XWMMMMMMMMMMMMMMMMMMMMMWX0kdllcdXM
+[Wed 2/17 03:18] - MXdccllcccccccccco0WMMMMMMMMMMMKoccccllccllllloxOKNWMMMMMMMMMMMMMMMMMMMMWNKOxxKW
+[Wed 2/17 03:18] - MKdcccccccccccccco0WMMMMMMMMMMMKocccccclcllccllclldk0XWMMMMMMMMMMMMMMMMMMMMMWNNM
+[Wed 2/17 03:18] - MKocclcccccclcccco0WMMMMMMMMMMM0occccccllcclccllcllcloOWMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MKoccllccccclcccco0WMMMMMMMMMMMKocccccclccclcclllclldkKWMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MKdlcclcccccccccco0WMMMMMMMMMMMKoccccccllllclccloxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MNxlcllcccccccccco0WMMMMMMMMMMMKocccclllllclldk0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MWOlcllcccccccccco0WMMMMMMMMMMM0occcccclloxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMXdcclccccllcccco0WMMMMMMMMMMMKocclldk0KXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMWOlcccllccccccco0WMMMMMMMMMMMXxdxOKNWMMMMMMMMMMMMMMMMMMWWWNXKK000000KKXNWWMMMM
+[Wed 2/17 03:18] - MMMNklllllccccccco0WMMMMMMMMMMMMNNWMMMMMMMMMMMMMMMMMWWXKOkxdoollllclllllood0NMMM
+[Wed 2/17 03:18] - MMMMXxllccccllccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kxollcccccccclllcclllco0WMMM
+[Wed 2/17 03:18] - MMMMWXxllccllllcco0WMMMMMMMMMMMMMMMMMMMMMMMMMMWXOxolcccclccccccccllcllcclo0WMMMM
+[Wed 2/17 03:18] - MMMMMWXxlccllcccco0WMMMMMMMMMMMMMMMMMMMMMMMWN0xolcccllllccclllccclcllclldKWMMMMM
+[Wed 2/17 03:18] - MMMMMMMNOolccllcco0WMMMMMMMMMMMMMMMMMMMMMWXOdlccccccccccccccccccccclcclxXWMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMWKxlllccco0WMMMMMMMMMMMMMMMMMMWX0OollcccccccccccccccccccclccldONMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMNOdlcccoKWMMMMMMMMMMMMMMMMMN0dllccccccccccccccclcccllccllokXWMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMWXOdlco0WMMMMMMMMMMMMMMMMNklccccccllllccccccllcclcclclokKWMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMWN0xdKWMMMMMMMMMMMMMMMXxlllcccccllcccccccccclccllldOXWMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMWNNMMMMMMMMMMMMMMMXxlllllcclcccclccccccccclldkKNMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNklcllllllccccccllccclloxOKNWMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoccccclllcccclllodxk0KNWMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXOkkkkxkkkkkkO00KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:18] - 
+[Wed 2/17 03:18] -  You are connected to: azubu.jp.quakenet.org
+[Wed 2/17 03:18] -  Sponsor: Azubu, http://www.azubu.tv/
+[Wed 2/17 03:18] -  Server location: Tokyo, Japan
+[Wed 2/17 03:18] -  Administrator: meeb <meeb@QuakeNet.org>
+[Wed 2/17 03:18] -  Ports: 6667 (IRC)
+[Wed 2/17 03:18] -  Alternate ports: 6668, 8080, 9000
+[Wed 2/17 03:18] - 
+[Wed 2/17 03:18] -  By connecting to QuakeNet you agree to by our network rules, please read them
+[Wed 2/17 03:18] -  at: https://www.quakenet.org/help/rules/main-rules
+[Wed 2/17 03:18] - 
+[Wed 2/17 03:18] -  For more information please read our website at: https://www.quakenet.org/
+[Wed 2/17 03:18] - 
+[Wed 2/17 03:18] - ................................................................................
+-
+[Wed 2/17 03:18] End of /MOTD command.
+-
+05[Wed 2/17 03:18] -azubu.jp.quakenet.org- on 2 ca 2(500) ft 20(20)
+-
+[Wed 2/17 03:18] asdasfad +i
+-
+03[Wed 2/17 03:18] * asdasfad 님의 모드 설정: +i
+-
+01[Wed 2/17 03:18] -> *01Q@CServe.quakenet.org* auth
+-
+03[Wed 2/17 03:18] * IAL : 켬
+-
+[Wed 2/17 03:18] timer 키기 시도!
+[Wed 2/17 03:18] timer 키기 성공!
+-
+03[Wed 2/17 03:18] 로컬 호스트: DESKTOP-8NTFNJ3.kornet (121.169.24.22)
+-
+03[Wed 2/17 03:18] * asdasfad 님의 모드 설정: +x
+-
+05[Wed 2/17 03:19] -Q- You didn't provide enough parameters for auth.
+-
+05[Wed 2/17 03:19] -Q- Usage: AUTH <username> <password>
+-
+05[Wed 2/17 03:19] -Q- For more information, type HELP auth.
+-
+[Wed 2/17 03:19] [#ncsc] asdasfad iubf mekia JJaery @Q katniss_
+[Wed 2/17 03:19] [#JJaeryIRC] asdasfad mekia @Q JJaery
+[Wed 2/17 03:19] [#csgoKR] asdasfad +mekia @Q @JJaery
+세션 닫기: Wed Feb 17 15:19:14 2016
+
+세션 시작: Wed Feb 17 15:19:17 2016
+세션 인증: Status Window
+[Wed 2/17 03:19] -J·J·a·e·r·yIRC- 1사용계약
+[Wed 2/17 03:19] 
+[Wed 2/17 03:19] ⓞ 이 IRC는 miRC 6.32 버전을 기반으로해 다양한 인터페이스와 기능들을 제공합니다.
+[Wed 2/17 03:19] ⓞ 여러 스크립들의 애드온의 사용에 대한 권한은 각 저작권자에게 있습니다.
+[Wed 2/17 03:19] ⓞ 무단수정, 배포 절대금합니다.
+[Wed 2/17 03:19] 
+[Wed 2/17 03:19] Copyrightⓒ 2016 Made By JJaery ^ㅡ^
+[Wed 2/17 03:19] 
+-
+02[Wed 2/17 03:19] * azubu.jp.quakenet.org (6667) 서버에 연결 중
+-
+05[Wed 2/17 03:19] -azubu.jp.quakenet.org- *** Checking Ident
+-
+[Wed 2/17 03:19] [4에러: 다음 닉네임은 사용하실 수 없습니다. - 전인재라닝 ]
+[Wed 2/17 03:19] [4에러: 다음 닉네임은 사용하실 수 없습니다. - 전인재라니 ]
+-
+06[Wed 2/17 03:19] * 43.224.32.195 으로부터 인증을 요청중입니다
+06[Wed 2/17 03:19] * 인증 응답: 53478, 6667 : USERID : UNIX : JJaeryIRC
+-
+05[Wed 2/17 03:19] -azubu.jp.quakenet.org- *** Got ident response
+-
+[Wed 2/17 03:19] Welcome to the QuakeNet IRC Network, safsadco
+[Wed 2/17 03:19] Your host is azubu.jp.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+[Wed 2/17 03:19] This server was created Sun 27 Sep 2015 at 05:44:44 BST
+-
+[Wed 2/17 03:19] azubu.jp.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+-
+[Wed 2/17 03:19] WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=10 MAXBANS=45 NICKLEN=15 are supported by this server
+[Wed 2/17 03:19] MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet are supported by this server
+[Wed 2/17 03:19] 2,2!2━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Wed 2/17 03:19] 2,2!2 유저 사용 현황 (azubu.jp.quakenet.org)
+[Wed 2/17 03:19] 2,2!2━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Wed 2/17 03:19] 2,2! 40 개의 서버에 22 명이 접속하고 있습니다.
+[Wed 2/17 03:19] 2,2! 66 명의 IRC 오퍼레이터가 사용중입니다.
+[Wed 2/17 03:19] 2,2! 32069 개의 채널이 있습니다.
+[Wed 2/17 03:19] 2,2! 이 서버에서 17 명의 유저가 사용중입니다.
+[Wed 2/17 03:19] 2,2!2━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-
+05[Wed 2/17 03:19] -azubu.jp.quakenet.org- Highest connection count: 27 (26 clients)
+-
+[Wed 2/17 03:19] Message of the Day, azubu.jp.quakenet.org
+-
+[Wed 2/17 03:19] - 2015-9-27 7:38
+[Wed 2/17 03:19] - ................................................................................
+[Wed 2/17 03:19] - 
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWNNNXXXXXXXXXNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMMWWNX0OkxxdooolllllloooddxkO0KXWWMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMN0xollcccccllccccccccllccllcllodk0KNWMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMWX0kdolcccclccclllccclcccllcccccclldk0XWMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMNK0XMMMMMMMWNKOxolcclcccclllcclcllccccccccllclok0NWMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMWN0xlo0WMMMMMMMMMMWX0kdllccllllcllcllllcccclllcclccldOXWMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMN0dlccoKWMMMMMMMMMMMMMWNKOxollccllccccccllcccccclccclclokXWMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMN0dlccccoKWMMMMMMMMMMMMMMMMMWX0OkdllcllccccclcccllccccccclloONMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMWXklccllcco0WMMMMMMMMMMMMMMMMMMMMMWNKOxolcccccccccccccccclccccldKWMMMMMMM
+[Wed 2/17 03:19] - MMMMMMWKdlccccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdlcclcllccccccccccllcloONMMMMMM
+[Wed 2/17 03:19] - MMMMMW0ollcclcccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOxollllccccccclllllcclkNMMMMM
+[Wed 2/17 03:19] - MMMMWOolcllcccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdlccccllcclllclcclkNMMMM
+[Wed 2/17 03:19] - MMMW0olcccccccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOdolllllclccllcllkNMMM
+[Wed 2/17 03:19] - MMWKdllcccccccclco0WMMMMMMMMMMMNKOKNWMMMMMMMMMMMMMMMMMMMMMMWX0xolcclccllclco0WMM
+[Wed 2/17 03:19] - MMNklcccccccccccco0WMMMMMMMMMMMKoclox0XNWWMMMMMMMMMMMMMMMMMMMMWNKkdollllcclldXMM
+[Wed 2/17 03:19] - MW0occcccccclcccco0WMMMMMMMMMMMKocccclodxkKNWMMMMMMMMMMMMMMMMMMMMMNXOxolllcclOWM
+[Wed 2/17 03:19] - MNklclccccccccccco0WMMMMMMMMMMMKocccclllllldk0XWMMMMMMMMMMMMMMMMMMMMMWX0kdllcdXM
+[Wed 2/17 03:19] - MXdccllcccccccccco0WMMMMMMMMMMMKoccccllccllllloxOKNWMMMMMMMMMMMMMMMMMMMMWNKOxxKW
+[Wed 2/17 03:19] - MKdcccccccccccccco0WMMMMMMMMMMMKocccccclcllccllclldk0XWMMMMMMMMMMMMMMMMMMMMMWNNM
+[Wed 2/17 03:19] - MKocclcccccclcccco0WMMMMMMMMMMM0occccccllcclccllcllcloOWMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MKoccllccccclcccco0WMMMMMMMMMMMKocccccclccclcclllclldkKWMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MKdlcclcccccccccco0WMMMMMMMMMMMKoccccccllllclccloxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MNxlcllcccccccccco0WMMMMMMMMMMMKocccclllllclldk0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MWOlcllcccccccccco0WMMMMMMMMMMM0occcccclloxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMXdcclccccllcccco0WMMMMMMMMMMMKocclldk0KXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMWOlcccllccccccco0WMMMMMMMMMMMXxdxOKNWMMMMMMMMMMMMMMMMMMWWWNXKK000000KKXNWWMMMM
+[Wed 2/17 03:19] - MMMNklllllccccccco0WMMMMMMMMMMMMNNWMMMMMMMMMMMMMMMMMWWXKOkxdoollllclllllood0NMMM
+[Wed 2/17 03:19] - MMMMXxllccccllccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kxollcccccccclllcclllco0WMMM
+[Wed 2/17 03:19] - MMMMWXxllccllllcco0WMMMMMMMMMMMMMMMMMMMMMMMMMMWXOxolcccclccccccccllcllcclo0WMMMM
+[Wed 2/17 03:19] - MMMMMWXxlccllcccco0WMMMMMMMMMMMMMMMMMMMMMMMWN0xolcccllllccclllccclcllclldKWMMMMM
+[Wed 2/17 03:19] - MMMMMMMNOolccllcco0WMMMMMMMMMMMMMMMMMMMMMWXOdlccccccccccccccccccccclcclxXWMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMWKxlllccco0WMMMMMMMMMMMMMMMMMMWX0OollcccccccccccccccccccclccldONMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMNOdlcccoKWMMMMMMMMMMMMMMMMMN0dllccccccccccccccclcccllccllokXWMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMWXOdlco0WMMMMMMMMMMMMMMMMNklccccccllllccccccllcclcclclokKWMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMWN0xdKWMMMMMMMMMMMMMMMXxlllcccccllcccccccccclccllldOXWMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMWNNMMMMMMMMMMMMMMMXxlllllcclcccclccccccccclldkKNMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNklcllllllccccccllccclloxOKNWMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoccccclllcccclllodxk0KNWMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXOkkkkxkkkkkkO00KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+[Wed 2/17 03:19] - 
+[Wed 2/17 03:19] -  You are connected to: azubu.jp.quakenet.org
+[Wed 2/17 03:19] -  Sponsor: Azubu, http://www.azubu.tv/
+[Wed 2/17 03:19] -  Server location: Tokyo, Japan
+[Wed 2/17 03:19] -  Administrator: meeb <meeb@QuakeNet.org>
+[Wed 2/17 03:19] -  Ports: 6667 (IRC)
+[Wed 2/17 03:19] -  Alternate ports: 6668, 8080, 9000
+[Wed 2/17 03:19] - 
+[Wed 2/17 03:19] -  By connecting to QuakeNet you agree to by our network rules, please read them
+[Wed 2/17 03:19] -  at: https://www.quakenet.org/help/rules/main-rules
+[Wed 2/17 03:19] - 
+[Wed 2/17 03:19] -  For more information please read our website at: https://www.quakenet.org/
+[Wed 2/17 03:19] - 
+[Wed 2/17 03:19] - ................................................................................
+-
+[Wed 2/17 03:19] End of /MOTD command.
+-
+05[Wed 2/17 03:19] -azubu.jp.quakenet.org- on 2 ca 1(500) ft 18(20) tr
+-
+[Wed 2/17 03:19] safsadco +i
+-
+03[Wed 2/17 03:19] * safsadco 님의 모드 설정: +i
+-
+01[Wed 2/17 03:19] -> *01Q@CServe.quakenet.org* auth
+-
+03[Wed 2/17 03:19] * IAL : 켬
+-
+[Wed 2/17 03:19] timer 키기 시도!
+[Wed 2/17 03:19] timer 키기 성공!
+-
+03[Wed 2/17 03:19] 로컬 호스트: DESKTOP-8NTFNJ3.kornet (121.169.24.22)
+-
+03[Wed 2/17 03:19] * safsadco 님의 모드 설정: +x
+-
+[Wed 2/17 03:19] [#ncsc] safsadco iubf mekia JJaery @Q katniss_
+[Wed 2/17 03:19] [#JJaeryIRC] safsadco mekia @Q JJaery
+[Wed 2/17 03:19] [#csgoKR] safsadco +mekia @Q @JJaery
+세션 닫기: Wed Feb 17 15:19:30 2016
